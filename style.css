@@ -1,8 +1,9 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: #ffe4c4;
-	color: #383838;
+	background-size: 100%;
+	background-color: bisque;
+	color: black;
 	font-family: helvetica, sans-serif;
 }
 main {
@@ -13,8 +14,15 @@ h1 {
 	font-size: 3em;
 	font-weight: 400;
 	margin: 0;
-	opacity: 0.5;
 }
 p {
 	margin: 0;
+	padding-bottom: 1em;
+	opacity: 0.2;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
 }
