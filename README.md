@@ -13,29 +13,29 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 1
-
+* https://www.playstation.com/en-ca/
 
 
 ---
 ## Site 2
-
+* https://www.apple.com/ca/
 
 
 ---
 ## Site 3
-
+* https://www.theweeknd.com/
 
 
 
 ---
 ## Site 4
-
+* https://www.stickeryou.com/en-ca
 
 
 
 ---
 ## Site 5
-
+* https://play.typeracer.com/
 
 
 
